@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#titulo{
+
+    font-family: sans-serif;
+    color: antiquewhite;
+    margin-left: 10%;
+  
+}
+
+#subtitulo{
+  
+    font-family: sans-serif;
+    color: antiquewhite;
+    margin-left: 10%;  
+}
+
+fieldset{
+    border: 1;
+}
+
+body{
+    color: rgb(145, 79, 206);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    background-image: url("amarelo.png.jfif");
+}
+
+
+.grupo{
+    color: rgb(34, 38, 48);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
